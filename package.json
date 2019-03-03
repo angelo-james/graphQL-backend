@@ -1,0 +1,23 @@
+{
+  "name": "graphql-backend",
+  "version": "1.0.0",
+  "description": "GraphQL server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelo-james/graphQL-backend.git"
+  },
+  "author": "AJ Arriola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelo-james/graphQL-backend/issues"
+  },
+  "homepage": "https://github.com/angelo-james/graphQL-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-graphql": "^0.7.1"
+  }
+}
